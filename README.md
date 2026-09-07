@@ -79,8 +79,9 @@ Machine learning-based recommendation system using Python, Pandas, Scikit-learn,
 
 **LinkedIn:** [Abdul Manan Khan](https://www.linkedin.com/in/manan-khan-841419304/)
 
-**Portfolio:** Coming soon
+**Portfolio:** [abdulmanankhan-portfolio.netlify.app](https://abdulmanankhan-portfolio.netlify.app/)
 
+**GitHub:** [github.com/manankhan53](https://github.com/manankhan53)
 ---
 
 > Building practical solutions with data, AI, and automation.
